@@ -12,15 +12,28 @@
 
 ---
 
+<h2>🏢 Experience</h2>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Razorpay_logo.svg" alt="Razorpay" width="120"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://zoop.one/assets/images/logo.svg" alt="Zoop" width="120"/>
+</p>
+
+<p align="center">
+Worked on scalable backend systems at <b>Razorpay</b> and <b>Zoop.one</b>, building APIs, microservices, and event-driven systems.
+</p>
+
+---
+
 <h2>🚀 About Me</h2>
 
 <p>
-Java-focused Backend Engineer with <b>2+ years of experience</b> building scalable systems at <b>Razorpay</b> and <b>Zoop.one</b>.
+Java-focused Backend Engineer with <b>2+ years of experience</b> building scalable, high-throughput systems in fintech.
 </p>
 
 <p>
-I design and optimize <b>REST APIs, microservices, and distributed systems</b>, with hands-on experience in 
-<b>Java, Spring Boot, Node.js</b>, and <b>event-driven architectures</b>.
+I specialize in <b>Java, Spring Boot, Node.js</b> and design <b>REST APIs, microservices, and distributed systems</b> with a focus on performance and reliability.
 </p>
 
 ---
@@ -39,19 +52,10 @@ I design and optimize <b>REST APIs, microservices, and distributed systems</b>, 
 
 <h2>🛠️ Tech Stack</h2>
 
-<p>
-<b>Backend:</b><br>
-Java • Spring Boot • Node.js • Express • REST APIs • Microservices
-</p>
+<p align="center">
 
-<p>
-<b>Databases & Messaging:</b><br>
-MySQL • PostgreSQL • MongoDB • Redis • Kafka • AWS Kinesis
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,mongodb,redis,kafka,aws,docker,kubernetes,git,github,jenkins" />
 
-<p>
-<b>Cloud & DevOps:</b><br>
-AWS • Docker • Kubernetes • GitHub Actions • Jenkins
 </p>
 
 ---
