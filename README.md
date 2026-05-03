@@ -1,15 +1,107 @@
-Mahesh S R | Backend Engineer
+<h1 align="center">Hi 👋, I'm Mahesh S R</h1>
+<h3 align="center">Backend Engineer | Java • Spring Boot • Node.js • Microservices • AWS</h3>
 
-Java-focused Backend Engineer with 2+ years of experience building scalable systems at Razorpay and Zoop.one.
+<p align="center">
+  <a href="https://linkedin.com/in/maheshraokashyap">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahesh%20S%20R-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:maheshkashyap5416@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
-I work on REST APIs, microservices, and backend performance optimization, with a strong foundation in data structures and problem-solving. Passionate about building reliable, high-performance systems and writing clean, maintainable code.
+---
 
-🛠️ Tech
+<h2>🚀 About Me</h2>
 
-Java • Spring Boot • REST APIs • MySQL • MongoDB • AWS • Docker
+<p>
+Java-focused Backend Engineer with <b>2+ years of experience</b> building scalable systems at <b>Razorpay</b> and <b>Zoop.one</b>.
+</p>
 
-📫 Connect
+<p>
+I design and optimize <b>REST APIs, microservices, and distributed systems</b>, with hands-on experience in 
+<b>Java, Spring Boot, Node.js</b>, and <b>event-driven architectures</b>.
+</p>
 
-LinkedIn: https://linkedin.com/in/maheshraokashyap
+---
 
-Email: maheshkashyap5416@gmail.com
+<h2>⚡ What I Do</h2>
+
+<ul>
+  <li>🔧 Build scalable APIs using <b>Spring Boot & Node.js</b></li>
+  <li>⚙️ Design <b>microservices & distributed systems</b></li>
+  <li>📊 Work on <b>event-driven systems (Kafka, AWS Kinesis)</b></li>
+  <li>🚀 Optimize backend performance (latency, caching, DB queries)</li>
+  <li>🐞 Debug production issues in distributed environments</li>
+</ul>
+
+---
+
+<h2>🛠️ Tech Stack</h2>
+
+<p>
+<b>Backend:</b><br>
+Java • Spring Boot • Node.js • Express • REST APIs • Microservices
+</p>
+
+<p>
+<b>Databases & Messaging:</b><br>
+MySQL • PostgreSQL • MongoDB • Redis • Kafka • AWS Kinesis
+</p>
+
+<p>
+<b>Cloud & DevOps:</b><br>
+AWS • Docker • Kubernetes • GitHub Actions • Jenkins
+</p>
+
+---
+
+<h2>🔥 Featured Projects</h2>
+
+<h3>🚀 KYC Verification Platform</h3>
+<ul>
+  <li>Built microservices using <b>Spring Boot + Kafka</b></li>
+  <li>Designed <b>event-driven architecture</b></li>
+  <li>Implemented <b>JWT auth + API Gateway</b></li>
+</ul>
+
+<h3>📊 API Monitoring Dashboard</h3>
+<ul>
+  <li>Built observability platform with <b>Prometheus + Grafana</b></li>
+  <li>Enabled real-time monitoring & debugging</li>
+</ul>
+
+<h3>⚡ Real-Time Streaming Pipeline</h3>
+<ul>
+  <li>Processed high-volume data using <b>Kafka + AWS Kinesis</b></li>
+  <li>Implemented producer-consumer architecture</li>
+</ul>
+
+<h3>🧾 Node.js User Management System</h3>
+<ul>
+  <li>Built REST APIs using <b>Node.js + Express</b></li>
+  <li>Implemented validation & modular backend design</li>
+</ul>
+
+---
+
+<h2>📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maheshRaoKashyap&show_icons=true&theme=radical" />
+</p>
+
+---
+
+<h2>📫 Connect With Me</h2>
+
+<ul>
+  <li>🔗 <a href="https://linkedin.com/in/maheshraokashyap">LinkedIn</a></li>
+  <li>📧 maheshkashyap5416@gmail.com</li>
+</ul>
+
+---
+
+<p align="center">
+⭐ Open to Backend Engineer / SDE-1 opportunities | Immediate Joiner
+</p>
