@@ -42,7 +42,7 @@ Currently focused on strengthening backend engineering depth across <b>Java, Spr
   <tr>
     <td width="50%" valign="top">
       <h3>Razorpay</h3>
-      <p><b>Associate Technical Consultant</b></p>
+      <p><b>Engineer 1- payment Solutions and Integrations</b></p>
       <p>
         Worked on payment gateway and RazorpayX integrations, API-based merchant onboarding,
         production debugging, and backend workflow support for fintech clients.
@@ -55,7 +55,7 @@ Currently focused on strengthening backend engineering depth across <b>Java, Spr
     </td>
     <td width="50%" valign="top">
       <h3>Zoop.one</h3>
-      <p><b>Backend Engineer</b></p>
+      <p><b>Product Engineer</b></p>
       <p>
         Worked on Java backend services, microservices, BFSI integrations, event-driven systems,
         API reliability, observability, and production issue resolution.
